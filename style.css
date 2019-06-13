@@ -2356,7 +2356,7 @@ header {
 
 @media (min-width:641px) and (max-width:960px) {
 	.benefits {
-		background-image: url("./img/11.jpg");
+		background-image: url("./img/30.jpg");
 		background-repeat: no-repeat;
 		background-position: top;
 		background-size:cover;	
@@ -2410,7 +2410,7 @@ header {
 		align-items: center;
 		margin: auto;
 		position: relative;
-		background-image: url("./img/11.jpg");
+		background-image: url("./img/30.jpg");
 		background-repeat: no-repeat;
 		background-position: top;
 		background-size: cover;	
@@ -2433,7 +2433,7 @@ header {
 		display: flex;
 		font-weight: 600;
 		font-size: 18px;
-		line-height: 12px;
+		
 		color: white;	
 		width: 60%;
 		justify-content: center;
